@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# discord-bot
+A simple discord bot I made using ruby. 
+>>>>>>> 674324d754889cdb192214dd0d40e798bae33249
